@@ -19,6 +19,8 @@ MRuby::Build.new do |conf|
 
   # Use standard Struct class
   conf.gem 'mrbgems/mruby-struct'
+  
+  conf.gem 'examples/mrbgems/cpp_ruby_class_example'
 
   # Generate binaries
   # conf.bins = %w(mrbc mruby mirb)
