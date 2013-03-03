@@ -17,3 +17,5 @@ cscope.out
 /bin
 /build
 /lib
+.project
+.cproject
